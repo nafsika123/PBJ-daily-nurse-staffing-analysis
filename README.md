@@ -25,10 +25,10 @@ The objective of this analysis is to identify staffing gaps, optimize resource a
  -     case_study.ipynb – The Jupyter Notebook containing the full analysis, including data cleaning, visualization, and insights.
 
 ### Key Insights
-- Staffing Gaps in High-Resident Facilities: Some facilities with high resident counts exhibit low staffing hours, indicating potential understaffing.
-- MedAide Staffing Shortages: Facilities with high resident counts often have insufficient MedAide staffing, suggesting a need for targeted recruitment.
-- Heavy Reliance on Contract Workers: Some facilities depend heavily on contractors, which may affect continuity and quality of care.
-- Regional Staffing Disparities: New York (NY) has significant differences in staffing patterns, potentially indicating overcrowding or inefficiency.
-- Impact of Training on Resident Safety: A weak negative correlation between nurse aide training and resident safety, suggesting training could improve care outcomes.
+- **Staffing Gaps in High-Resident Facilities**: Some facilities with high resident counts exhibit low staffing hours, indicating potential understaffing.
+- **MedAide Staffing Shortages**: Facilities with high resident counts often have insufficient MedAide staffing, suggesting a need for targeted recruitment.
+- **Heavy Reliance on Contract Workers**: Some facilities depend heavily on contractors, which may affect continuity and quality of care.
+- **Regional Staffing Disparities**: New York (NY) has significant differences in staffing patterns, potentially indicating overcrowding or inefficiency.
+- **Impact of Training on Resident Safety**: A weak negative correlation between nurse aide training and resident safety, suggesting training could improve care outcomes.
 
 
