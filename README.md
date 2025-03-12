@@ -18,7 +18,7 @@ The goal is to provide actionable insights that will help improve resource alloc
 
 ### Objective
 
-The objective of this analysis is to identify staffing gaps, optimize resource allocation, and support strategic decision-making for the sales leadership team. By leveraging the [Payroll-Based Journal (PBJ) Daily Nurse Staffing](https://data.cms.gov/quality-of-care/payroll-based-journal-daily-nurse-staffing/data) dataset and the [MDS Quality Measures](https://data.cms.gov/provider-data/dataset/djen-97ju) dataset, this analysis aims to enhance operational efficiency and improve resident care.
+The objective of this analysis is to identify staffing gaps, optimize resource allocation, and support strategic decision-making for the sales leadership team. By leveraging the Payroll-Based Journal (PBJ) Daily Nurse Staffing dataset and the MDS Quality Measures dataset, this analysis aims to enhance operational efficiency and improve resident care.
 
 ### Files Included:
 - **`case_study.ipynb`** - Jupyter Notebook containing the full analysis, including data cleaning, visualization, and insights
