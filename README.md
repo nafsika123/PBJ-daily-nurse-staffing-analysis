@@ -32,7 +32,7 @@ You can download the datasets used for this analysis:
 - [Payroll-Based Journal (PBJ) Daily Nurse Staffing](https://data.cms.gov/quality-of-care/payroll-based-journal-daily-nurse-staffing/data)
 - [MDS Quality Measures](https://data.cms.gov/provider-data/dataset/djen-97ju)
 
-### Key Insights
+### Key Insights 💡:
 - **Staffing Gaps in High-Resident Facilities**: Some facilities with high resident counts exhibit low staffing hours, indicating potential understaffing.
 - **MedAide Staffing Shortages**: Facilities with high resident counts often have insufficient MedAide staffing, suggesting a need for targeted recruitment.
 - **Heavy Reliance on Contract Workers**: Some facilities depend heavily on contractors, which may affect continuity and quality of care.
