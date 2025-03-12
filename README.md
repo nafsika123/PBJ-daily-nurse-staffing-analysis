@@ -23,6 +23,10 @@ The objective of this analysis is to identify staffing gaps, optimize resource a
 ### Files Included:
 - **`case_study.ipynb`** - Jupyter Notebook containing the full analysis, including data cleaning, visualization, and insights
 
+### Data Source
+You can download the datasets used for this analysis:
+- [Payroll-Based Journal (PBJ) Daily Nurse Staffing](https://data.cms.gov/quality-of-care/payroll-based-journal-daily-nurse-staffing/data)
+- [MDS Quality Measures](https://data.cms.gov/provider-data/dataset/djen-97ju)
 
 ### Key Insights
 - **Staffing Gaps in High-Resident Facilities**: Some facilities with high resident counts exhibit low staffing hours, indicating potential understaffing.
